@@ -9,3 +9,6 @@
 ### Pre-requisite
 - Add `Cucumber Reports` plugin in Jenkins to use `cucumber` DSL as shown 
 in the `Jenkinsfile`
+
+### Forked
+-This project was forked just to be able to run it with jenkins on my personal machine, please follow the main repo (by TechPrimes) to be updated.
